@@ -12,7 +12,7 @@ https://kingodjerry.github.io/tensorflowJS/
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## 실행화면
-![image](https://github.com/kingodjerry/tensorflowJS/assets/143167244/88089437-3a55-4c19-bd9f-8be068d1c2ad)
+<img src="https://github.com/kingodjerry/tensorflowJS/assets/143167244/88089437-3a55-4c19-bd9f-8be068d1c2ad  width="200" height="400"/>
 1. START 버튼 클릭 시, 웹캠으로 이미지를 받아 분류를 실행합니다. 
 ![image](https://github.com/kingodjerry/tensorflowJS/assets/143167244/2525c2e4-61d5-491a-b5b2-94733ba577e6)
 2. STOP 버튼 클릭 시, 이미지 분류를 멈추고 최종 결과를 출력합니다. 
