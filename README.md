@@ -6,7 +6,7 @@ https://kingodjerry.github.io/tensorflowJS/
 <br> *위 링크를 클릭하시면 웹앱이 실행됩니다.
 
 https://coruscating-kashata-11e3fb.netlify.app
-<br> *netflify를 이용해서 배포한 웹앱이 실행됩니다. 
+<br> *위 링크를 클릭하시면 Netflify를 이용해서 배포한 웹앱이 실행됩니다. 
 
 ## 사용 언어 및 스킬 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
