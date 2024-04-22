@@ -15,7 +15,7 @@ https://coruscating-kashata-11e3fb.netlify.app
 
 ## 실행화면
 1. START 버튼 클릭 시, 웹캠으로 이미지를 받아 분류를 실행합니다.
-  ![image](https://github.com/kingodjerry/tensorflowJS/assets/143167244/88089437-3a55-4c19-bd9f-8be068d1c2ad)  ![image](https://github.com/kingodjerry/tensorflowJS/assets/143167244/2525c2e4-61d5-491a-b5b2-94733ba577e6)
+  ![image](https://github.com/kingodjerry/tensorflowJS/assets/143167244/88089437-3a55-4c19-bd9f-8be068d1c2ad)
 2. STOP 버튼 클릭 시, 이미지 분류를 멈추고 최종 결과를 출력합니다.
   ![image](https://github.com/kingodjerry/tensorflowJS/assets/143167244/2525c2e4-61d5-491a-b5b2-94733ba577e6)
 3. RESTART 버튼 클릭 시, 이미지 분류를 다시 실행할 수 있습니다. 
